@@ -1,6 +1,6 @@
 # Oblivion Save Game Sync
 
-Easily sync your **Oblivion Remastered save files** between your **PC** and **OneDrive** (e.g., to play on a Steam Deck and then pick up where you left off on your desktop).
+Easily sync your **Oblivion Remastered save files** between your **PC** and **OneDrive** (e.g., to play on a Steam Deck and then pick up where you left off on your desktop or Steam Deck).
 
 ---
 
