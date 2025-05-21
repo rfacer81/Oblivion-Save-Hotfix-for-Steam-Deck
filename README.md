@@ -15,7 +15,7 @@ Easily sync your **Oblivion Remastered save files** between your **PC** and **On
 
 ## 🛠 How to Use
 
-1. Download and run the `Sync-OblivionSaveGames.ps1` PowerShell script.
+1. Download and run the `OblivionSaveSync.ps1` PowerShell script.
 2. It will sync saves between these folders:
    - **Local PC**:  
      `Documents\My Games\Oblivion Remastered\Saved\SaveGames`
